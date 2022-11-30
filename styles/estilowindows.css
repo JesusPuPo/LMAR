@@ -44,9 +44,9 @@ li a:hover {
 
 article{
 	float: center;
+	color: #E1F2FA;
 	padding: 100px;
-	text-decoration: blink;
-	background-color: white;
-	text-decoration-color: whitesmoke;
+  object-fit: contain;
+  background-repeat: no-repeat;
 
 }

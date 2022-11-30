@@ -45,7 +45,8 @@ article{
 	float: center;
 	padding: 100px;
 	text-decoration: blink;
-	background-color: white;
+  object-fit: contain;
+  background-repeat: no-repeat;
 	text-decoration-color: whitesmoke;
 
 }
