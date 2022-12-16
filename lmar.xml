@@ -1,0 +1,12 @@
+<rss version="2.0">
+<channel>
+	<title> Prueba de rss</title>
+	<link> https://jesuspupo.github.io/LMAR/ </link>
+	<author>Jesus Pulido </author>
+	<item>
+		<title> Windows </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Windows.html </link>
+		<description> apartado de windows del tutorial </description>
+	</item>
+</channel>
+</rss>
