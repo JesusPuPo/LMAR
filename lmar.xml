@@ -1,12 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
 <channel>
-	<title> Prueba de rss</title>
+	<title>Index</title>
 	<link> https://jesuspupo.github.io/LMAR/ </link>
-	<author>Jesus Pulido </author>
+	<description> Página principal de la página html </description>
+	<copyright> Jesus Pulido </copyright>
+	<image>
+	<url> https://jesuspupo.github.io/LMAR/índice.jpeg</url>
+	<Tittle> RSS </Tittle>
+	<link>ttps://jesuspupo.github.io/LMAR/</link>
 	<item>
+		<title> Main menu </title>
+		<link> https://jesuspupo.github.io/LMAR/ </link>
+		<description> Página principal de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+		<pubDate> 20-12-2022 </pubDate>
+	</item>
+		<item>
 		<title> Windows </title>
-		<link> https://jesuspupo.github.io/LMAR/pages/Windows.html </link>
-		<description> apartado de windows del tutorial </description>
+		<link> https://jesuspupo.github.io/LMAR/Windows </link>
+		<description> Página de windows de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+	<item>
+		<title> Linux </title>
+		<link> https://jesuspupo.github.io/LMAR/Linux </link>
+		<description> Página de Linux de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+	<item>
+		<title> Comparación </title>
+		<link> https://jesuspupo.github.io/LMAR/Comparacion </link>
+		<description> Página de comparación de la página html </description>
+		<author> jesusporpu@gmail.com </author>
 	</item>
 </channel>
 </rss>
