@@ -1,48 +1,50 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<feed xml:lang = "es" xml:base="https://jesuspupo.github.io/LMAR/">
-	<id> https://jesuspupo.github.io/LMAR/ </id>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+xml:lang="es"
+xml:base="https://jesuspupo.github.io/LMAR/">
+	<id>https://jesuspupo.github.io/LMAR/</id>
 	<title> trabajo de LMAR </title>
-	<update> 2023-1-10 </update>
+	<updated>2002-10-02T10:00:00-05:00</updated>
 	<author>
 		<name> Jesus Pulido Porcuna </name>
 		<email> jesusporpu@gmail.com </email>
 	</author>
 	<category term= "Instalacion de software"/>
-	<logo> ./styles/wnegro.jpg </logo>
+	<logo>./styles/wnegro.jpg</logo>
 
 	<entry>
-		<id> https://jesuspupo.github.io/LMAR/pages/Windows.html </id>
-		<title> Informacion sobre la instalacion de software en windows </title>
-		<update> 2023-1-10 </update>
+		<id>https://jesuspupo.github.io/LMAR/windows</id>
+		<title>Informacion sobre la instalacion de software en windows</title>
+		<content>https://jesuspupo.github.io/LMAR/windows</content>
+		<updated>2002-10-02T10:00:00-05:00</updated>
 		<author>
-		<name> Jesus Pulido Porcuna </name>
-		<email> jesusporpu@gmail.com </email>
+		<name>Jesus Pulido Porcuna</name>
+		<email>jesusporpu@gmail.com</email>
 		</author>
-		<summary> Aqui encontrarás tutoriales de como instalar programas en windows </summary>
-
+		<summary>Aqui encontrarás tutoriales de como instalar programas en windows</summary>
 	</entry>
 
 	<entry>
-		<id> https://jesuspupo.github.io/LMAR/pages/Linux.html </id>
-		<title> Informacion sobre la instalacion de software en Linux </title>
-		<update> 2023-1-10 </update>
+		<id>https://jesuspupo.github.io/LMAR/linux</id>
+		<title>Informacion sobre la instalacion de software en Linux</title>
+		<updated>2002-10-02T10:00:00-05:00</updated>
+		<content>https://jesuspupo.github.io/LMAR/Linux</content>
 		<author>
-		<name> Jesus Pulido Porcuna </name>
-		<email> jesusporpu@gmail.com </email>
+		<name>Jesus Pulido Porcuna</name>
+		<email>jesusporpu@gmail.com</email>
 		</author>
-		<summary> Aqui encontrarás tutoriales de como instalar programas en Linux </summary>
-
+		<summary>Aqui encontrarás tutoriales de como instalar programas en Linux</summary>
 	</entry>
 
 	<entry>
-		<id> https://jesuspupo.github.io/LMAR/pages/Comparacion.html </id>
-		<title> comparativa de los software instalados </title>
-		<update> 2023-1-10 </update>
+		<id>https://jesuspupo.github.io/LMAR/compara</id>
+		<title>comparativa de los software instalados</title>
+		<updated>2002-10-02T10:00:00-05:00</updated>
+		<content>https://jesuspupo.github.io/LMAR/comparacion</content>
 		<author>
-		<name> Jesus Pulido Porcuna </name>
-		<email> jesusporpu@gmail.com </email>
+		<name>Jesus Pulido Porcuna</name>
+		<email>jesusporpu@gmail.com</email>
 		</author>
-		<summary> Comparación algo excasa y sin profundidad de los programas instalados </summary>
-
+		<summary>Comparación algo excasa y sin profundidad de los programas instalados</summary>
 	</entry>
 </feed>
