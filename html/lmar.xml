@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Index</title>
+	<link> https://jesuspupo.github.io/LMAR/ </link>
+	<description> Página principal de la página html </description>
+	<copyright> Jesus Pulido </copyright>
+	<image>
+		<url>https://jesuspupo.github.io/LMAR/índice.jpeg</url>
+		<title>ASIR</title>
+		<link>https://jesuspupo.github.io/LMAR/</link>
+	</image>
+	
+	<item>
+		<title> Main menu </title>
+		<link> https://jesuspupo.github.io/LMAR/ </link>
+		<description> Página principal de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+		<pubDate> Sun, 20 dec 2022 13:17:00 +0100 </pubDate>
+	</item>
+	
+
+	<item>
+		<title> Windows </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Windows.html </link>
+		<description> Página de windows de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Antivirus </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Windows/Antivirus.html </link>
+		<description> Página de antivirus de windows de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Ofimático </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Windows/Ofimatico </link>
+		<description> Página de ofimatico de windows de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Portable </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Windows/Portable.html </link>
+		<description> Página de portable de windows de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Recuperación </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Windows/Recuperacion.html </link>
+		<description> Página de recuperación en windows de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+
+
+	<item>
+		<title> Linux </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Linux.html </link>
+		<description> Página de Linux de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+	<item>
+		<title> Antivirus </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Linux/Antivirus.html </link>
+		<description> Página de antivirus en linux de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Ofimático </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Linux/Ofimatico.html </link>
+		<description> Página de software ofimatico de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Portable </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Linux/Portable.html</link>
+		<description> Página de software portable en linux de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Recuperación </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Linux/Recuperacion.html </link>
+		<description> Página de software de recuperacion en linux de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+
+
+	
+
+	<item>
+		<title> Comparación </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Comparacion.html </link>
+		<description> Página de comparación de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+			<item>
+		<title> Antivirus </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Comparacion/ofimatico.html </link>
+		<description> Página de comparativa de antivirus de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Ofimático </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Comparacion/Ofimatico.html </link>
+		<description> Página de comparativa de software ofimatico de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Portable </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Comparacion/Portable.html </link>
+		<description> Página de comparativa de software portable de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+		<item>
+		<title> Recuperación </title>
+		<link> https://jesuspupo.github.io/LMAR/pages/Comparacion/Recuperacion.html </link>
+		<description> Página de comparativa sobre software de recuperacion de la página html </description>
+		<author> jesusporpu@gmail.com </author>
+	</item>
+
+
+
+</channel>
+</rss>
