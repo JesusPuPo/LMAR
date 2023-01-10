@@ -8,6 +8,7 @@
 	</author>
 	<category term= "Instalacion de software"/>
 	<logo> ./styles/wnegro.jpg </logo>
+
 	<entry>
 		<id> https://jesuspupo.github.io/LMAR/pages/Windows.html </id>
 		<title> Informacion sobre la instalacion de software en windows </title>
@@ -20,7 +21,7 @@
 
 	</entry>
 
-		<entry>
+	<entry>
 		<id> https://jesuspupo.github.io/LMAR/pages/Linux.html </id>
 		<title> Informacion sobre la instalacion de software en Linux </title>
 		<update> 2023-1-10 </update>
@@ -32,7 +33,7 @@
 
 	</entry>
 
-		<entry>
+	<entry>
 		<id> https://jesuspupo.github.io/LMAR/pages/Comparacion.html </id>
 		<title> comparativa de los software instalados </title>
 		<update> 2023-1-10 </update>
