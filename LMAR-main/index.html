@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<link rel="stylesheet" href= "styles/estilo.css">
+	<meta charset="utf.8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>LMAR&FHW</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+	$(document).ready(function(){
+		$("article").hide()
+		$("#menuWindows").click(function(){
+			$("article").hide()
+			$("#Windows").hide();
+		});
+		$("#menuLinux").click(function(){
+			$("article").hide()
+			$("#Linux").show();
+		});
+		$("#menuComparacion").click(function(){
+			$("article").hide()
+			$("#Comparacion").show();
+		});
+			$("#menuclonezilla").click(function(){
+			$("article").hide()
+			$("#Clonezilla").show();
+		});
+	});
+	</script>
+	</head>
+<body>
+
+		<header>
+			<h2> Instalación de software</h2>
+	
+		</header>
+
+		<section>
+			<nav>
+				<ul>
+					<li id="menuWindows"><a href="./pages/Windows.html">Windows </a></li>
+					<li id="menuLinux"><a href="./pages/Linux.html">Linux </a></li>
+					<li id="menuComparacion"><a href="./pages/Comparacion.html">Comparación </a></li>
+					<li id="menuClonezilla"><a href="./pages/Clonezilla.html">Clonezilla </a></li>
+				</ul>
+			</nav>
+
+  <article id="Windows">
+    <iframe  style="width:100%; border:none"src="pages/Windows.html"></iframe>
+  </article>
+  <article id="Linux">
+    <iframe   style="width:100%; border:none"src="pages/Linux.html"></iframe>
+  </article>
+  <article id="Comparacion">
+    <iframe style="width:100%; border:none"src="pages/Comparacion.html"></iframe>
+  </article>
+  </article><article id="Clonezilla">
+    <iframe  style="width:100%; border:none"src="pages/Clonezilla.html"></iframe>
+  </article>
+</section>
+
+<a href="./lmar.xml"> 
+	<img src="indi.jpeg" widht="20px" height="20px">
+</a>
+
+<a href="./Attom.xml"> 
+	<img src="descarga.jpeg" widht="20px" height="20px">
+</a>
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+*{
+	box-sizing: content-box;
+}
+
+body{
+	font-family: Courier New, monospace ;
+	background-image: url(Linux.jpg);
+	background-position-x: center;
+	background-position-y: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #E1F2FA;
+
+}
+
+ header{
+ 	padding: 10%;
+ 	text-align: left;
+ 	font-size: 25px;
+ 	color: #0C38A4;
+ }
+
+ ul {
+
+
+  text-align: left;
+  column-rule-color: #C7EBFD;
+  list-style-type: none;
+  margin: 20;
+  padding: 20;
+  overflow: hidden;
+}
+
+li a {
+  display: block;
+  color: #0C38A4;
+  padding: 10px 50px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #E2DFDF;
+  color: black;
+  }
+
+article{
+	
+	float: center;
+	padding: 100px;
+	text-decoration: blink;
+	object-fit: contain;
+	background-repeat: no-repeat;
+	color: #000000;
+
+}

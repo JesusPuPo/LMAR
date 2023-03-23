@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   <link rel="stylesheet" href= "../styles/estilolinux.css">
+   <meta charset="utf.8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>LMAR&FHW</title>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+   $(document).ready(function(){
+      $("article").hide()
+      $("#menuofimatico").click(function(){
+         $("article").hide()
+         $("#ofimatico").show();
+      });
+         $("#menurecuperacion").click(function(){
+         $("article").hide()
+         $("#recuperacion").show();
+      });
+      $("#menuantivirus").click(function(){
+         $("article").hide()
+         $("#antivirus").show();
+      });
+      $("#menuportable").click(function(){
+         $("article").hide()
+         $("#portable").show();
+      });
+   });
+   </script>
+   </head>
+<body>
+
+   <header>
+      <h2> Instalación de software: Linux</h2>
+   </header>
+
+      <section>
+         <nav>
+            <ul>
+               <li id="menuofimatico"><a href="#Ofimatico">Ofimático</a></li>
+               <li id="menurecuperacion"><a href="#Recuperacion">Recuperación </a></li>
+               <li id="menuantivirus"><a href="#Antivirus">Antivirus</a></li>
+               <li id="menuportable"><a href="#Portable">portable</a></li>
+            </ul>
+         </nav>
+
+  <article id="ofimatico">
+    <iframe  style="width:100%; height:100vh; border:none"src="Linux/Ofimatico.html"></iframe>
+  </article>
+  <article id="recuperacion">
+    <iframe   style="width:100%; height:100vh; border:none"src="Linux/Recuperacion.html"></iframe>
+  </article>
+  <article id="antivirus">
+    <iframe style="width:100%; height:100vh; border:none"src="Linux/Antivirus.html"></iframe>
+  </article>
+   <article id="portable">
+    <iframe style="width:100%; height:100vh; border:none"src="Linux/Portable.html"></iframe>
+  </article>
+</section>
+
+<p>------------------------------------</p>
+ <form method="get" action="../index.html">
+
+<button type="submit">
+
+<b>Main</b><br />
+
+
+</button>
+
+</body>
+</html>
