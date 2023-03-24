@@ -3,13 +3,12 @@
 }
 
 body{
-	font-family: Courier New, monospace ;
-	background-image: url(Linux.jpg);
-	background-position-x: center;
-	background-position-y: center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	color: #E1F2FA;
+  font-family: Arial, Helvetica, sans-serif;
+   background-image: url(images.jpg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
 
 }
 
@@ -17,14 +16,14 @@ body{
  	padding: 10%;
  	text-align: left;
  	font-size: 25px;
- 	color: #0C38A4;
+ 	color: #0F0402;
  }
 
  ul {
 
 
   text-align: left;
-  column-rule-color: #C7EBFD;
+  column-rule-color: #0F0402;
   list-style-type: none;
   margin: 20;
   padding: 20;
@@ -33,12 +32,12 @@ body{
 
 li a {
   display: block;
-  color: #0C38A4;
-  padding: 10px 50px;
+  color: #031803;
+  padding: 10px 10px;
   text-decoration: none;
 }
 li a:hover {
-  background-color: #E2DFDF;
+  background-color: #F7F0EF;
   color: black;
   }
 
@@ -49,6 +48,6 @@ article{
 	text-decoration: blink;
 	object-fit: contain;
 	background-repeat: no-repeat;
-	color: #000000;
+	color: #2F100A;
 
 }

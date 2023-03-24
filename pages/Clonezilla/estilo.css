@@ -1,0 +1,17 @@
+* {
+  box-sizing: conten-box;
+}
+body {
+  background-color: lightblue;
+  color: blue;
+}
+
+h1 {
+
+  color: 13268D;
+}
+
+div {
+  background-color: blue;
+  color: white;
+}
